@@ -29,8 +29,7 @@ Validar o uso do modelo YOLOv8 para detecção de veículos e a aplicação de l
 
 O Diagrama ilustra visualmente o funcionamento do PoC. Ele apresenta o ciclo de vida da aplicação, desde o carregamento da imagem até a exibição do resultado final.
 
-![CgO6gAAAAASUVORK5CYII](https://github.com/user-attachments/assets/09e4074b-7ca6-4931-a9d1-8241b8c1dbfe)
-
+<img width="351" height="551" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/79ac62e0-4d83-4ada-9d51-ef5bbff4d779" />
 
 
 #### Fluxo de Processamento (Pipeline)
