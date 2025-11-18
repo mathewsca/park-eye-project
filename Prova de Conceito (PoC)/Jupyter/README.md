@@ -27,7 +27,7 @@ Validar o uso do modelo YOLOv8 para detecção de veículos e a aplicação de l
 
 #### Diagrama de Arquitetura
 
-O Diagrama ilustra visualmente o funcionamento lógico do seu script Python ("PoC"). Ele descreve o ciclo de vida da aplicação, desde o carregamento da imagem até a exibição do resultado final.
+O Diagrama ilustra visualmente o funcionamento do PoC. Ele apresenta o ciclo de vida da aplicação, desde o carregamento da imagem até a exibição do resultado final.
 
 ![CgO6gAAAAASUVORK5CYII](https://github.com/user-attachments/assets/09e4074b-7ca6-4931-a9d1-8241b8c1dbfe)
 
