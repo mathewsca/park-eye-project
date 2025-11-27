@@ -1,0 +1,5 @@
+names:
+  0: veiculo
+path: c:\Users\marce\Desktop\park-eye-project-final-final\datasets\park-eye
+train: images/train
+val: images/val
